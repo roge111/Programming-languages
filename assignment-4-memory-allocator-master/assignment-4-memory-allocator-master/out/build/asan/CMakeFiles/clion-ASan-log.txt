@@ -1,0 +1,2 @@
+Cannot generate 'ASan' into /home/mihail/freelance/egorbmp/assignment-4-memory-allocator-master/out/build/asan
+CMakeCache.txt is found in the project dir, only in-source generation will be performed.

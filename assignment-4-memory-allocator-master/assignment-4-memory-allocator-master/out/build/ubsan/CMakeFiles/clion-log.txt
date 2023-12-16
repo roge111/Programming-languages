@@ -1,0 +1,2 @@
+Cannot generate 'UBSan' into C:\Users\batar\YandexDisk\Университет ИТМО\Языки программирования\assignment-4-memory-allocator-master\assignment-4-memory-allocator-master\out\build\ubsan
+CMakeCache.txt is found in the project dir, only in-source generation will be performed.

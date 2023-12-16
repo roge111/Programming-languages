@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\batar\YandexDisk\Университет ИТМО\Языки программирования\assignment-4-memory-allocator-master\assignment-4-memory-allocator-master
+It is already used for unknown project
+
+Please either delete it manually or select another generation directory
